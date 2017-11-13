@@ -1,7 +1,7 @@
 {
   "name": "object-delete-value",
   "description": "delete keys with the given value from an object",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Renée Kooi <renee@kooi.me>",
   "bugs": {
     "url": "https://github.com/goto-bus-stop/object-delete-value/issues"
